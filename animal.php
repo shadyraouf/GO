@@ -17,4 +17,5 @@ class Dog extends Animal{
 $dog=new Dog();
 $dog->setDogName("New Dog");
 $dog->getDogName();
+echo "testing";
 ?>
